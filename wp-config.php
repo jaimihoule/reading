@@ -1,8 +1,8 @@
 <?php 
 define('USE_FETCH_FOR_REQUESTS',true);
 ?><?php 
-define('WP_HOME','https://diy-pwa.com/scope:0.5688015020874992');
-define('WP_SITEURL','https://diy-pwa.com/scope:0.5688015020874992');
+define('WP_HOME','https://diy-pwa.com/scope:0.4953818608686726');
+define('WP_SITEURL','https://diy-pwa.com/scope:0.4953818608686726');
 ?><?php 
 define('WP_DEBUG_LOG',true);
 define('WP_DEBUG_DISPLAY',false);
